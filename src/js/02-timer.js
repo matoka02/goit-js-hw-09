@@ -1,3 +1,5 @@
+"use strict";
+
 import flatpickr from "flatpickr";
 // import { Russian } from "flatpickr/dist/l10n/ru";
 // import { Ukrainian } from "flatpickr/dist/l10n/uk";
